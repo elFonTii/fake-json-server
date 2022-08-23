@@ -60,5 +60,14 @@
       "balance": 3720,
       "userId": 1
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "091092617",
+      "email": "johndoe@test.com",
+      "password": "password"
+    }
   ]
 }
