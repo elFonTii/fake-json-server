@@ -43,19 +43,22 @@
       "id": 1,
       "name": "CHASE CHECKINGS",
       "number": "123455545",
-      "balance": 1150
+      "balance": 1150,
+      "userId": 1
     },
     {
       "id": 2,
       "name": "CHASE SAVINGS",
       "number": "123452200",
-      "balance": 5250
+      "balance": 5250,
+      "userId": 1
     },
     {
       "id": 3,
       "name": "CHASE PAYMENTS",
       "number": "123455231",
-      "balance": 3720
+      "balance": 3720,
+      "userId": 1
     }
   ]
 }
